@@ -23,9 +23,9 @@ public class Parking {
     }
     public  void pruebastatic(){
     
-    int prueba=0;
+    System.out.println("prueba");
     
-          
+         
 }
     
 }
